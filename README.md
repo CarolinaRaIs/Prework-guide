@@ -1,4 +1,4 @@
-# Fullstack Prework Study Guide Webpage
+# Front-end application Prework Study Guide Webpage
 
 ## Description
 
